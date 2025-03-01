@@ -1,4 +1,4 @@
-I love music and have always wanted to understand musical notes. Since I’ve been learning to play the piano, it became a necessity, so I’m diving into Python to explore and decode them. It’s an exciting journey, blending my passion for music with the power of coding!
+I love music and have always wanted to understand musical notes. Since I’ve been learning to play the piano, it became a necessity, so I’m diving into Python to explore and decode them🎼🎼. It’s an exciting journey, blending my passion for music with the power of coding!
 A typical code should be started by:
 1. Receiving the image and processing it to detect the notes.
 2. Detecting the notes and symbols (i.e. noteheads, rests, clefs) from the processed image.
