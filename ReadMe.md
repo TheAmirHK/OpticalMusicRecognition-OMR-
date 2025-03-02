@@ -4,6 +4,7 @@ A typical code should be started by:
 2. Detecting the notes and symbols (i.e. noteheads, rests, clefs) from the processed image.
 3. Classifying the symbols (i.e. noteheads, rests, clefs), since there are various types.
 4. Mapping the recognized notes to their corresponding musical pitches and durations.
-From step 4 we will have a MIDI(Musical Instrument Digital Interface) format output which later can be converted to an audio file.
+
+<br />From step 4 we will have a MIDI(Musical Instrument Digital Interface) format output which later can be converted to an audio file.
 Note: I want to do more and convert the the map into music. I'll see what will happen. That's for future :)
 
